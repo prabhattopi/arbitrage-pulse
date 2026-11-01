@@ -1,0 +1,30 @@
+[
+  {
+    "competitor_name": "ApexGizmos",
+    "sku": "TECH-ANC-001",
+    "price": "$79.99",
+    "in_stock": true,
+    "url": "https://apex.example.com/p/TECH-ANC-001"
+  },
+  {
+    "competitor_name": "ElectroDirect",
+    "sku": "TECH-ANC-001",
+    "price": 84.50,
+    "in_stock": true,
+    "url": "https://electro.example.com/p/TECH-ANC-001"
+  },
+  {
+    "competitor_name": "FitZone Deals",
+    "sku": "FIT-WATCH-002",
+    "price": "$44.00",
+    "in_stock": false,
+    "url": "https://fitzone.example.com/p/FIT-WATCH-002"
+  },
+  {
+    "competitor_name": "GadgetHub",
+    "sku": "COF-MUG-003",
+    "price": "29.99",
+    "in_stock": true,
+    "url": "https://gadgethub.example.com/p/COF-MUG-003"
+  }
+]
