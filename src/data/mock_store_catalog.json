@@ -3,7 +3,7 @@
     "sku": "TECH-ANC-001",
     "title": "AeroBeats Wireless Noise Cancelling Headphones",
     "cost_price": 50.0,
-    "current_price": 89.99,
+    "current_price": 79.49,
     "stock_quantity": 42,
     "min_margin_pct": 20.0
   },
@@ -11,7 +11,7 @@
     "sku": "FIT-WATCH-002",
     "title": "PulsePro Waterproof Fitness Tracker",
     "cost_price": 25.0,
-    "current_price": 49.99,
+    "current_price": 53.99,
     "stock_quantity": 18,
     "min_margin_pct": 25.0
   },
@@ -19,7 +19,7 @@
     "sku": "COF-MUG-003",
     "title": "Smart Thermal Self-Heating Travel Mug",
     "cost_price": 18.0,
-    "current_price": 34.99,
+    "current_price": 29.49,
     "stock_quantity": 5,
     "min_margin_pct": 15.0
   }
